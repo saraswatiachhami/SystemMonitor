@@ -1,0 +1,4 @@
+2024-12-22 10:45:00 INFO: User logged in successfully.
+2024-12-22 10:46:00 ERROR: Failed login attempt for user 'admin'.
+2024-12-22 10:47:00 WARNING: Unauthorized access attempt detected.
+2024-12-22 10:48:00 INFO: Malicious activity detected in the network.
