@@ -15,7 +15,7 @@ This tool is particularly useful for security teams or system administrators who
 ## Steps to run the code
 1. Ensure that Python is installed on your system. You can download it from the official website: python.org.
 2. Create a folder for your project, e.g: Techincal Assessment and navigate to the folder.
-3. Open a text editor or IDE (e.g., VS Code, PyCharm, or Notepad) and create a python file(e.g: SystemMonitor.py) and write the Python code in SystemMonitor.py .
+3. Open a text editor or IDE (e.g., VS Code, PyCharm, or Notepad) and create a python file(e.g: SystemMonitor.py) in that folder and write the Python code in SystemMonitor.py .
 4. Create a sample log file named system_logs.txt in the same directory/folder and add some log entries to the file.
 5. Open a Terminal or Command Prompt in the same directory.
 6. Run the code in the terminal by: python SystemMonitor.py
